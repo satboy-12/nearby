@@ -1,0 +1,6 @@
+{
+  "name": "Mending",
+  "description": "An emotional healing and healthy boundary tracker that helps you process feelings, maintain contact distance, log journals, and practice breathing exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
